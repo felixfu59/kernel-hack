@@ -32,5 +32,7 @@ https://github.com/veritas501/pipe-primitive
 https://veritas501.github.io/2022_03_16-CVE_2022_0185%E5%88%86%E6%9E%90%E5%8F%8A%E5%88%A9%E7%94%A8%E4%B8%8Epipe%E6%96%B0%E5%8E%9F%E8%AF%AD%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/
 # UnSorted
 https://smallkirby.hatenablog.com/entry/corjail
+
 https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html
+
 https://syst3mfailure.io/corjail
